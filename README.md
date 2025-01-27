@@ -1,4 +1,4 @@
-# Framework-Scrum-Miro
+# Framework Scrum
 Template MIRO com os pilares, valores e aspectos fundamentais do Framework Scrum: Responsabilidades, Eventos e Artefatos. 
 
 <a href="TO DO SCRUM.pdf" title="Read PDF"> 📕Clique aqui ter acesso ao arquivo</a>
